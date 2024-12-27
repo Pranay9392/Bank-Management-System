@@ -92,5 +92,5 @@ This project is a simple Python-based backend implementation for a **Bank Manage
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bank-management.git
-   cd bank-management
+   git clone https://github.com/Pranay9392/Bank-Management-System.git
+   cd Bank-Management-System
